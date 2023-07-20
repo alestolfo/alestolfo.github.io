@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>OAS K 22</p>
-    <p>Binzmühlestrasse 11/13</p>
+    <p>OAT Y 24</p>
+    <p>Andreasstrasse 5</p>
     <p>8092 Zürich, Switzerland</p>
 
 news: true  # includes a list of news items
@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://www.mrinmaya.io).
+
+I am currently interning in the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, where I am working with [Ari Kobren](https://akobre01.github.io).
 
 <!--- My work includes... --->
 
