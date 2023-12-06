@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>OAT Y 24</p>
@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://www.mrinmaya.io).
 
-I am currently interning in the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, where I am working with [Ari Kobren](https://akobre01.github.io).
-
 <!--- My work includes... --->
 
 I am interested in studying and improving **machine learning models** for **natural language processing**. I am excited about exploring their capabilities on complex tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
+
+In summer 2023, I interned in the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, where I worked with [Ari Kobren](https://akobre01.github.io).
 
 Before starting my doctoral studies, I obtained a Master's degree in Data Science at ETH Zürich,
 and I worked at [Rethink-Resource](https://rethink-resource.com) on the development of [Circado](https://rethink-resource.com/circado). <!--- a sustainable trading platform for secondary resources. --->
