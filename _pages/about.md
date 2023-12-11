@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://www.mrinmaya.io).
+Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://www.mrinmaya.io), and co-advised by [Yonatan Belinkov](https://belinkov.com) (Technion).
 
 <!--- My work includes... --->
 
