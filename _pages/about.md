@@ -23,6 +23,8 @@ Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.i
 
 <!--- My work includes... --->
 
+I am currently interning in the [AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/overview/) group at [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond, WA, working with [Besmira Nushi](https://besmiranushi.com).
+
 I am interested in studying and improving **machine learning models** for **natural language processing**. I am excited about exploring their capabilities on complex tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
 
 In summer 2023, I interned in the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, where I worked with [Ari Kobren](https://akobre01.github.io).
