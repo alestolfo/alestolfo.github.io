@@ -139,6 +139,9 @@
           {%- if entry.acl %}
             <a href="{{ entry.acl }}" class="btn btn-sm z-depth-0" role="button">ACL</a>
           {%- endif %}
+          {%- if entry.openreview %}
+            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">OpenReview</a>
+          {%- endif %}
           {%- if entry.arxiv %}
             <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
