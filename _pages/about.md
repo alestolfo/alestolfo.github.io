@@ -11,7 +11,7 @@ profile:
   address: >
     <p>OAT Y 24</p>
     <p>Andreasstrasse 5</p>
-    <p>8092 Zürich, Switzerland</p>
+    <p>8050 Zürich, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,11 +23,12 @@ Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.i
 
 <!--- My work includes... --->
 
-I am currently interning in the [AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/overview/) group at [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond, WA, working with [Besmira Nushi](https://besmiranushi.com).
+My research focuses on evaluating and interpreting **machine learning models** for **natural language processing**. I am particularly interested in exploring the capabilities of (large) language models in areas such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
 
-I am interested in studying and improving **machine learning models** for **natural language processing**. I am excited about exploring their capabilities on complex tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
+<!---  I am interested in evaluating and interpreting **machine learning models** for **natural language processing**. I am excited about exploring their capabilities on tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge. --->
 
-In summer 2023, I interned in the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, where I worked with [Ari Kobren](https://akobre01.github.io).
+In summer 2024, I interned with the [AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) group at [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond, WA, where I had the opportunity to collaborate with [Besmira Nushi](https://besmiranushi.com) and [Eric Horvitz](https://erichorvitz.com).
+Previously, in summer 2023, I interned with the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, working with [Ari Kobren](https://akobre01.github.io).
 
 Before starting my doctoral studies, I obtained a Master's degree in Data Science at ETH Zürich,
 and I worked at [Rethink-Resource](https://rethink-resource.com) on the development of [Circado](https://rethink-resource.com/circado). <!--- a sustainable trading platform for secondary resources. --->
