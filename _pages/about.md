@@ -23,7 +23,13 @@ Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.i
 
 <!--- My work includes... --->
 
-My research focuses on evaluating and interpreting **machine learning models** for **natural language processing**. I am particularly interested in exploring the capabilities of (large) language models in areas such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
+<!-- My research focuses on evaluating and interpreting **machine learning models** for **natural language processing**. I am particularly interested in exploring the capabilities of (large) language models in areas such as solving arithmetic problems and reasoning over factual and commonsense knowledge.
+
+My research focuses on **interpretability and reliability of (large) language models**. I study how models represent information and use these insights to develop diagnostics and interventions that predict and reduce errors, improve calibration, and support controllable generation. I am particularly interested in compact experimental setups that provide fast feedback and translate analysis into practical improvements. -->
+
+My research focuses on the **interpretability and reliability** of (large) **language models**. I study how models represent information and how those representations shape behavior and errors. I am excited to leverage these insights to design methods that make language models better and safer.
+
+<!-- My research focuses on the interpretability and reliability of large language models. I study how models represent task information and how those representations influence behavior and failure modes. I use these insights to design diagnostics and interventions that improve calibration, reduce errors, and enable more controllable generation. -->
 
 <!---  I am interested in evaluating and interpreting **machine learning models** for **natural language processing**. I am excited about exploring their capabilities on tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge. --->
 
@@ -43,3 +49,5 @@ I completed my undergraduate studies in Computer Engineering at [Politecnico di 
 I am grateful to be a recipient of the [CYD Doctoral Fellowship](https://www.epfl.ch/research/services/fund-research/funding-opportunities/fellowship-mobility/cyd-fellowships/awarded-cyd-fellows/).
 
 <!--- within the [Institute of Machine Learning](https://ml.inf.ethz.ch) --->
+
+<b>For ETH students: </b> Feel free to reach out via email if you're interested in having me supervise your MSc thesis or semester project. I welcome project proposals, but even if you don't have concrete ideas and are simply passionate about leveraging interpretability to improve models, please don't hesitate to contact me. I typically allocate my supervision budget 4-6 weeks before the semester starts, so that's the best timing to reach out.
