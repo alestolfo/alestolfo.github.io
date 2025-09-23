@@ -137,13 +137,13 @@
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">LINK</a>
           {%- endif %}
           {%- if entry.acl %}
-            <a href="{{ entry.acl }}" class="btn btn-sm z-depth-0" role="button">ACL</a>
+            <a href="{{ entry.acl }}" class="btn btn-sm z-depth-0" role="button">ACL Anthology <i class="fas fa-external-link-alt"></i></a>
           {%- endif %}
           {%- if entry.openreview %}
-            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">OpenReview</a>
+            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">OpenReview <i class="fas fa-external-link-alt"></i></a>
           {%- endif %}
           {%- if entry.arxiv %}
-            <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+            <a href="{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv <i class="fas fa-external-link-alt"></i></a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
