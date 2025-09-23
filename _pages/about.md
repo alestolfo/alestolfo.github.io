@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://www.mrinmaya.io), and co-advised by Prof. [Yonatan Belinkov](https://belinkov.com) (Technion).
+Hi! I am a doctoral student in the [Institute for Machine Learning](https://ml.inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html), where I am advised by Prof. [Mrinmaya Sachan](https://lre.inf.ethz.ch), and co-advised by Prof. [Yonatan Belinkov](https://belinkov.com) (Technion).
 
 <!--- My work includes... --->
 
@@ -37,7 +37,7 @@ In summer 2024, I interned with the [AI Frontiers](https://www.microsoft.com/en-
 Previously, in summer 2023, I interned with the [Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=94065:12:103082211090993:7) at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:1) in Burlington, MA, working with [Ari Kobren](https://akobre01.github.io).
 
 Before starting my doctoral studies, I obtained a Master's degree in Data Science at ETH Zürich,
-and I worked at [Rethink-Resource](https://rethink-resource.com) on the development of [Circado](https://rethink-resource.com/circado). <!--- a sustainable trading platform for secondary resources. --->
+and I worked as a software engineer at [Rethink-Resource](https://rethink-resource.com). <!--- a sustainable trading platform for secondary resources. --->
 I completed my undergraduate studies in Computer Engineering at [Politecnico di Milano](https://www.polimi.it). 
 
 <!--- I am broadly interested in investigating the capabilities of machine learning models for natural language processing such as reasoning, memorization, and temporal generalization. --->
