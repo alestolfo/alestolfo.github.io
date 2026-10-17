@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Alessandro
 middle_name:
 last_name: Stolfo
-email: alessandro.stolfo@inf.ethz.ch
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Alessandro Stolfo's personal website.
 footer_text: >
@@ -70,7 +70,7 @@ github_username: alestolfo # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: alesstolfo # your Twitter handle
 linkedin_username: alessandrostolfo # your LinkedIn user name
-scholar_userid: Fx50TZQAAAAJ # your Google Scholar ID
+scholar_userid: A0MMDo0AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -83,7 +83,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note:
+contact_note: >
+  For contact, my email is name.surname@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
